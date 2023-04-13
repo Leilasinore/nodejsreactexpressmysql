@@ -1,4 +1,4 @@
-# nodejsreactexpressmysql
+# nodejsreactexpressmysql--application that can let you fetch ,delete,post and update books data that is in a mysql database
 
 install mysql2,express,cors, and start a react application on another folder
 
